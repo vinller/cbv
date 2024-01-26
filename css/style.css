@@ -3021,10 +3021,10 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.0625rem;
   padding-bottom: 0.0625rem;
-  margin-right: 2em;
-  font-size: 2em;
+  margin-right: 1.25rem;
+  font-size: 1.25rem;
   line-height: inherit;
-  font-family: var(--ff-main);
+  font-family: var(--font-family-sans-serif);
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
